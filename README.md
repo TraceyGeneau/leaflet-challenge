@@ -32,5 +32,7 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
 * Your visualization should look something like the preceding map.
 
+## My Leaflet Challenge Link
 
+https://traceygeneau.github.io/leaflet-challenge/
 
