@@ -38,7 +38,7 @@ d3.json(geoData).then(function(response) {
   features = response.features;
   
   //set limit for number of markers to make if load faster
-  let marker_limit = 2000
+  let marker_limit = 3000
 
 
 // Loop through the data array, and create one marker for each long/lat object.
